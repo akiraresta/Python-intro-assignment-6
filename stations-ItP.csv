@@ -1,0 +1,27 @@
+type,name,num_of_tracks,list_of_stores
+Centraal,Station Centraal A,10,"[""Julia's"", 'AH-ToGo', 'Backwerk']"
+Station,Station B,1,[]
+Station,Station C,3,[]
+Station,Station D,3,[]
+Station,Station E,1,[]
+Centraal,Station Centraal F,10,"[""Julia's"", 'Burger King', 'La Place']"
+Station,Station G,2,[]
+Centraal,Station Centraal H,10,"['Kiosk', 'Dudok', 'Burger King', ""Julia's""]"
+Station,Station I,2,[]
+Station,Station J,2,[]
+Centraal,Station Centraal K,10,"['La Place', 'Burger King', 'AH-ToGo', 'Smuller', 'Hema', 'Rituals', 'Fiets & Service', ""Julia's"", 'Backwerk', 'Dudok']"
+Station,Station L,3,[]
+Station,Station M,3,[]
+Station,Station N,3,[]
+Centraal,Station Centraal O,10,"['AH-ToGo', 'Smuller', 'Fiets & Service', ""Julia's"", 'Dudok', 'Kiosk', 'Hema', 'Starbucks', 'Rituals', 'Backwerk']"
+Centraal,Station Centraal P,10,"['Backwerk', 'Smuller', 'Dudok', 'Burger King', 'La Place', ""Julia's"", 'Kiosk']"
+Station,Station Q,4,[]
+Centraal,Station Centraal R,10,"['Smuller', 'Dudok', 'Backwerk']"
+Centraal,Station Centraal S,10,"['AH-ToGo', 'Smuller', 'Kiosk']"
+Station,Station T,2,[]
+Station,Station U,1,[]
+Station,Station V,1,[]
+Station,Station W,3,[]
+Centraal,Station Centraal X,10,"['Fiets & Service', 'La Place', 'Hema', 'Smuller', 'Backwerk', 'AH-ToGo', 'Dudok', 'Kiosk', 'Rituals', 'Starbucks', ""Julia's""]"
+Station,Station Y,4,[]
+Centraal,Station Centraal Z,10,['Kiosk']

@@ -1,0 +1,21 @@
+type,number_of_train_parts,capacity,speed,route,double,num_silent_zones
+Sprinter,1,4,140,"['Station D', 'Station V', 'Station T', 'Station Centraal S']",False,0
+Intercity,7,35,200,"['Station Centraal F', 'Station Centraal S', 'Station Centraal A', 'Station Centraal Z', 'Station M', 'Station Centraal P', 'Station Centraal R', 'Station Q', 'Station J', 'Station W', 'Station N', 'Station C', 'Station Centraal H', 'Station Centraal K', 'Station B', 'Station Y', 'Station L', 'Station Centraal O', 'Station V', 'Station D', 'Station T', 'Station U', 'Station Centraal X']",False,7
+Train,7,35,241,"['Station Centraal O', 'Station Centraal K', 'Station E', 'Station L', 'Station U', 'Station Centraal R', 'Station Centraal A', 'Station C', 'Station Centraal X']",False,0
+Intercity,2,10,200,"['Station C', 'Station Centraal Z', 'Station Centraal K', 'Station G', 'Station Y', 'Station M', 'Station Centraal H', 'Station I', 'Station Centraal R', 'Station Q', 'Station L', 'Station D', 'Station U', 'Station E', 'Station J', 'Station Centraal X', 'Station Centraal P', 'Station Centraal S', 'Station W', 'Station B']",True,1
+Intercity,1,5,200,"['Station I', 'Station Centraal O', 'Station Centraal S']",False,1
+Train,4,20,296,"['Station Centraal A', 'Station G']",False,0
+Train,5,15,288,"['Station I', 'Station Centraal O', 'Station Centraal P', 'Station Q', 'Station Centraal F', 'Station G']",False,0
+Intercity,2,10,200,"['Station Centraal X', 'Station J', 'Station Centraal S', 'Station W', 'Station Q', 'Station Centraal R', 'Station G', 'Station U', 'Station B', 'Station Centraal O', 'Station I', 'Station Centraal F', 'Station M', 'Station Centraal P', 'Station D', 'Station C', 'Station N', 'Station Centraal A', 'Station L', 'Station E', 'Station V', 'Station Centraal Z', 'Station Y']",True,1
+Intercity,5,25,200,"['Station M', 'Station I', 'Station Centraal Z', 'Station W', 'Station Centraal A', 'Station Y', 'Station V', 'Station Centraal O', 'Station Centraal X', 'Station Centraal S', 'Station Centraal R', 'Station G', 'Station N', 'Station Q', 'Station C']",False,3
+Intercity,3,12,200,"['Station Centraal H', 'Station C', 'Station E', 'Station Centraal Z', 'Station Centraal A', 'Station Centraal S', 'Station B', 'Station J', 'Station Y', 'Station Centraal P', 'Station Q', 'Station T', 'Station Centraal O', 'Station U', 'Station D', 'Station Centraal X', 'Station M', 'Station I', 'Station G', 'Station N', 'Station W', 'Station Centraal K', 'Station Centraal F', 'Station V']",True,3
+Train,5,20,221,"['Station Centraal K', 'Station L', 'Station G', 'Station U', 'Station B', 'Station Centraal H', 'Station W']",False,0
+Train,2,8,270,"['Station Centraal Z', 'Station Centraal F', 'Station U', 'Station C', 'Station E', 'Station I', 'Station N', 'Station Centraal X', 'Station Centraal A', 'Station D']",False,0
+Intercity,1,5,200,"['Station B', 'Station Centraal H', 'Station M', 'Station Q', 'Station Centraal R', 'Station Centraal K', 'Station N', 'Station T', 'Station Centraal P', 'Station J', 'Station L', 'Station Centraal S']",False,1
+Intercity,7,28,200,"['Station T', 'Station Centraal F', 'Station Centraal X', 'Station Centraal R', 'Station Centraal S', 'Station C', 'Station J', 'Station M']",True,3
+Train,2,8,188,"['Station Centraal K', 'Station Centraal Z', 'Station D', 'Station Centraal O', 'Station U']",False,0
+Sprinter,4,16,140,"['Station G', 'Station Centraal X', 'Station Centraal P', 'Station Centraal S', 'Station C']",False,0
+Sprinter,2,6,140,"['Station Centraal A', 'Station C', 'Station D', 'Station Centraal Z', 'Station L', 'Station U']",False,0
+Train,6,30,235,"['Station Centraal Z', 'Station D', 'Station L', 'Station Centraal A', 'Station I', 'Station U', 'Station Y', 'Station T', 'Station Centraal X']",False,0
+Sprinter,3,12,140,"['Station Centraal P', 'Station Centraal F', 'Station Centraal A', 'Station U']",False,0
+Intercity,6,30,200,"['Station Centraal P', 'Station Centraal H', 'Station G', 'Station W', 'Station T', 'Station Centraal Z', 'Station E', 'Station Centraal S', 'Station N', 'Station Q', 'Station C', 'Station B', 'Station Centraal O', 'Station V']",True,2
